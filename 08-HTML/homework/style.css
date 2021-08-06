@@ -1,15 +1,32 @@
-h1 { color: rgb(1, 11, 151);}
-
+h1 { color: rgb(243, 243, 246);
+   background-color: black;}
+h3 , h4{ color: blanchedalmond;
+   background:black}
 img {width: 400px;}
 
-#thirdDiv {height: 600px;
-           width: 500px;
-           background-color: rgb(156, 169, 202);
-           padding: 50px;
-           border: 5px;
-           border-color: black;
-           border-style: dotted;
-           padding: 50px; }
+#thirdDiv {padding: auto;
+   border: black, solid, 5px; }
 
-#spanId {font-size: 18px;
-         margin: 50px;}
+a {border: black, solid}
+
+#spanId {color: blanchedalmond;
+         background-color: black;
+         font-size: 18px;
+         margin: 50px;
+         text-align: center;}
+
+div {text-align: center;}
+
+#divClass {background-color: black;
+
+}
+body {background-image: url(https://photo620x400.mnstatic.com/ae5a16c9df429d00399d9443c2e83b93/el-club-de-la-milanesa.jpg);
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;}
+
+ul { text-align: center;
+   list-style: none;
+   margin: 20px;
+   padding-right: 400px;}
