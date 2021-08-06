@@ -1,0 +1,15 @@
+h1 { color: rgb(1, 11, 151);}
+
+img {width: 400px;}
+
+#thirdDiv {height: 600px;
+           width: 500px;
+           background-color: rgb(156, 169, 202);
+           padding: 50px;
+           border: 5px;
+           border-color: black;
+           border-style: dotted;
+           padding: 50px; }
+
+#spanId {font-size: 18px;
+         margin: 50px;}
