@@ -17,7 +17,7 @@ a {border: black, solid}
 
 div {text-align: center;}
 
-#divClass {background-color: black;
+.divClass {background-color: black;
 
 }
 body {background-image: url(https://photo620x400.mnstatic.com/ae5a16c9df429d00399d9443c2e83b93/el-club-de-la-milanesa.jpg);
@@ -28,5 +28,5 @@ body {background-image: url(https://photo620x400.mnstatic.com/ae5a16c9df429d0039
 
 ul { text-align: center;
    list-style: none;
-   margin: 20px;
+   margin: 2git a0px;
    padding-right: 400px;}
